@@ -1,2 +1,2 @@
 Digital inclusion and accessibility are critical components in ensuring that all individuals, regardless of their learning abilities, have equal opportunities to access and benefit from digital technologies. This comprehensive introduction will delve into the significance of improving digital inclusion and accessibility for those with learning disabilities, a topic of increasing importance in our technologically driven world.
-https://docs.google.com/presentation/d/1A4_yUc5_iMPADi1eWdtFZbLvGQElrCkz/edit?usp=sharing&ouid=110544144771571563050&rtpof=true&sd=true. PPT 
+https://docs.google.com/presentation/d/1A4_yUc5_iMPADi1eWdtFZbLvGQElrCkz/edit?usp=sharing&ouid=110544144771571563050&rtpof=true&sd=true.PPT 
