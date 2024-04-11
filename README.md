@@ -1,23 +1,15 @@
 🔹 Ensuring Governance, Risk, and Compliance Excellence
+Experienced GRC Specialist proficient in implementing and managing governance, risk, and compliance frameworks including ISO 27001, PCI DSS, ISO 22301, ISO 9001, and ISO 31000, with a track record of achieving certifications, enhancing information security, ensuring regulatory compliance, and driving operational excellence.
 
-As a dedicated GRC Specialist and IT System Analyst with a strong foundation in computer science, I bring a comprehensive approach to managing and optimizing governance, risk, and compliance processes within IT frameworks. My journey, fueled by a Master's degree in Computer Science and hands-on experience in the field, has been marked by a relentless pursuit of excellence in every project I undertake.
-
-🔹 Expertise in IT Service Management & Information Security
-
-My professional narrative is defined by a profound understanding of IT service management and information security, underpinned by certifications like ISO/IEC 20000 IT Service Management Associate™ and ISO/IEC 27001 Information Security Associate. These credentials not only represent my commitment to industry standards but also equip me with the knowledge to implement best practices in a variety of organizational contexts.
+🔹 Expertise in  Security Operations Center (SOC)
+I possess a diverse skill set honed through various roles within the Security Operations Center (SOC), including SOC Analyst, Security Engineer,  Threat Intelligence, DFIR, and Secure Software Development Security. My focus lies in proactive monitoring, detection, analysis, and response to security incidents, all while ensuring compliance with industry standards. Leveraging robust technical expertise in employing security technologies and tools for threat assessments and investigations, I effectively mitigate security threats and minimize their impact. My unwavering dedication to cybersecurity, coupled with a thirst for continuous learning, drives me to bolster organizational security postures while staying abreast of the latest security trends and threats.
 
 🔹 Six Sigma Black Belt – Driving Operational Excellence
-
 With a Six Sigma Black Belt (CSSBB), I excel in identifying inefficiencies, envisioning new solutions, and leading initiatives that streamline operations, enhance quality, and reduce costs. My approach combines analytical rigor with strategic thinking, ensuring that every process I refine contributes tangibly to organizational goals.
 
-🔹 Five Years of Transformative Experience
+Cybersecurity Standards and Frameworks (NIST,  Mitre ATT&CK framework, CIS, ISO 22301, ISO 31000, ISO 27001. ISO 9001, PCI-DSS)
 
-Over five years in the field, I have cultivated a knack for balancing detailed technical analysis with big-picture strategic planning. My experience spans across various facets of IT governance, risk assessment, compliance auditing, and process improvement. This diverse exposure allows me to adapt quickly and deliver results in dynamic and complex environments.
+Badges https://www.credly.com/users/groot279/badges
 
-🔹 Collaborative Leader and Lifelong Learner
-
-I believe in the power of teamwork and knowledge sharing. Whether leading a project or contributing as a team member, I always strive to foster an environment of mutual learning and respect. Continuous learning is a cornerstone of my professional philosophy, as I consistently seek to update my skills and stay abreast of emerging trends in GRC and IT.
-
-Cybersecurity Standards and Frameworks (NIST, CIS, ISO 22301, ISO 27001 PCI-DSS)
-
-Badges https://www.credly.com/users/tahirabubakarbalarabe/badges
+Check out my GitHub Profile I am working on some interesting project 
+GitHub: https://github.com/balarabetahir
