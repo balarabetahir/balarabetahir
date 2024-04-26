@@ -13,3 +13,5 @@ Badges https://www.credly.com/users/groot279/badges
 
 Check out my GitHub Profile I am working on some interesting project 
 GitHub: https://github.com/balarabetahir
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/Cyberchef201.png" alt="TryHackMe">
