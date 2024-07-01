@@ -9,6 +9,19 @@ With a Six Sigma Black Belt (CSSBB), I excel in identifying inefficiencies, envi
 
 Cybersecurity Standards and Frameworks (NIST,  Mitre ATT&CK framework, CIS, ISO 22301, ISO 31000, ISO 27001. ISO 9001, PCI-DSS)
 
+I am an Experienced Governance Risk and Compliance Specialist proficient in implementing and managing governance, risk, and compliance frameworks.
+
+My skills and work experience:
+
+Conducting risk assessments to identify potential threats and vulnerabilities within the organization.
+https://docs.google.com/spreadsheets/d/1atqjbngTely8ip3gaCgdsbIVGlbt6mWvassN1KfjGFU/edit?usp=sharing
+ 
+Monitoring compliance with relevant regulations and industry standards.
+https://docs.google.com/spreadsheets/d/1zbXmRWDM4VcIZ_lYUAwzcYBpRgJ1VA-Y3pXvbUXbFj4/edit?gid=462699244#gid=462699244
+
+I analyze, develop, and implement robust policies to defend against cyber threats and ensure regulatory compliance. 
+https://github.com/balarabetahir/grc-policy
+
 Badges https://www.credly.com/users/groot279/badges
 
 Check out my GitHub Profile I am working on some interesting project 
