@@ -1,3 +1,5 @@
+AWS PROJECTS 
+https://drive.google.com/drive/folders/1OnsnWyiUY_nfBflntS4DyvOf0SQ7sDCb?usp=sharing
 🔹 Ensuring Governance, Risk, and Compliance Excellence
 Experienced GRC Specialist proficient in implementing and managing governance, risk, and compliance frameworks including ISO 27001, PCI DSS, ISO 22301, ISO 9001, and ISO 31000, with a track record of achieving certifications, enhancing information security, ensuring regulatory compliance, and driving operational excellence.
 
