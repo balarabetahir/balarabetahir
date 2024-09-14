@@ -1,45 +1,17 @@
 
-🔹Code Analysis
-Static Code Analysis: Utilizing tools such as Synk to conduct static code analysis, identify vulnerabilities, and ensure code quality.
+As a dedicated cybersecurity professional specializing in code analysis, compliance management, threat modeling, and security training, I bring a holistic approach to securing organizational assets. With extensive experience utilizing tools like Snyk, OWASP ZAP, Burp Suite, and WhiteSource, I conduct thorough static and dynamic code analyses to identify vulnerabilities and ensure code quality.
 
-Dynamic Code Analysis: Implementing dynamic analysis using tools like OWASP ZAP, Burp Suite, and Veracode to detect runtime vulnerabilities.
+In the realm of compliance management, I have a proven track record of monitoring and upholding industry standards such as GDPR, PCI-DSS, SOC2, ISO 27001, and NIST. My expertise includes policy development, conducting internal and external audits, and generating insightful compliance reports using platforms like Splunk and the ELK Stack.
 
-Security Scanning: Conducting regular security scans using tools like Snyk and WhiteSource to detect and remediate open source vulnerabilities.
+My threat modeling proficiency involves leveraging methodologies like STRIDE and DREAD, as well as frameworks like Mitre ATT&CK and OWASP Top Ten, to proactively identify and mitigate potential security threats. Through penetration testing and red teaming exercises, I validate threat models and enhance organizational security postures.
 
-🔹Change Management
-Structured Change Management: Implementing ITIL-based change management processes to ensure secure and compliant system modifications.
+Passionate about fostering a culture of security awareness, I develop and deliver comprehensive training programs tailored to various roles within an organization. By conducting workshops, webinars, and e-learning sessions, I empower teams to adopt best practices and stay vigilant against emerging threats.
 
-Version Control: Utilizing version control systems like Git and SVN to manage changes and maintain a history of modifications.
+What sets me apart is my integrated approach to cybersecurity—bridging technical expertise with effective communication to not only secure systems but also educate and empower teams. Currently, I'm working on three exciting projects that further advance security measures—stay tuned for updates!
 
-Collaboration: Working with cross-functional teams using platforms like Jira and Confluence to manage changes effectively and minimize risks.
+I'm eager to connect with professionals and organizations committed to building a more secure digital landscape. Feel free to reach out to discuss how we can collaborate to enhance cybersecurity initiatives.
 
-🔹Compliance Management
-Regulatory Compliance: Monitoring and ensuring compliance with industry standards and regulations such as GDPR, PCI-DSS, and SOC2.
-
-Policy Development: Developing and maintaining comprehensive policies and procedures to uphold compliance with frameworks like ISO 27001, PCI DSS, and NIST.
-
-Auditing: Conducting regular internal and external audits to verify compliance and address any gaps.
-
-Reporting: Generating compliance reports using tools like Splunk and ELK Stack to provide insights into compliance status and risk levels.
-
-Monitoring compliance with relevant regulations and industry standards.
-https://docs.google.com/spreadsheets/d/1zbXmRWDM4VcIZ_lYUAwzcYBpRgJ1VA-Y3pXvbUXbFj4/edit?gid=462699244#gid=462699244
-
-🔹Threat Modeling
-Threat Identification: Performing threat modeling using methodologies like STRIDE and DREAD to identify potential security threats.
-
-Assessment and Mitigation: Assessing and prioritizing threats, and implementing mitigation strategies to address identified risks.
-
-Frameworks Utilization: Leveraging frameworks like Mitre ATT&CK and OWASP Top Ten to enhance threat intelligence capabilities and stay updated on emerging threats.
-
-Simulation and Testing: Conducting penetration testing and red teaming exercises to validate threat models and improve security posture.
-
-🔹Security Training
-Program Development: Creating comprehensive security training programs tailored to different roles and responsibilities within the organization.
-
-Training Delivery: Delivering training sessions through various formats including workshops, webinars, and e-learning platforms. Working on 3 Projects at the moment stay tuned 
-
-Awareness Campaigns: Promoting a culture of security awareness through regular communications, phishing simulations, and security newsletters. Follow my Journey https://medium.com/@tahirbalarabe2
+Follow my journey: medium.com/@tahirbalarabe2
 
 AWS PROJECTS 
 https://drive.google.com/drive/folders/1OnsnWyiUY_nfBflntS4DyvOf0SQ7sDCb?usp=sharing
