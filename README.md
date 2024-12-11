@@ -1,35 +1,39 @@
 
-As a dedicated cybersecurity professional specializing in code analysis, compliance management, threat modeling, and security training, I bring a holistic approach to securing organizational assets. With extensive experience utilizing tools like Snyk, OWASP ZAP, Burp Suite, and WhiteSource, I conduct thorough static and dynamic code analyses to identify vulnerabilities and ensure code quality.
+Secure, Develop, Build Secure and Secure rwx- - - - Policy
 
-In the realm of compliance management, I have a proven track record of monitoring and upholding industry standards such as GDPR, PCI-DSS, SOC2, ISO 27001, and NIST. My expertise includes policy development, conducting internal and external audits, and generating insightful compliance reports using platforms like Splunk and the ELK Stack.
+https://medium.com/@tahirbalarabe2/list/aws-projects-95b21f815749
 
-My threat modeling proficiency involves leveraging methodologies like STRIDE and DREAD, as well as frameworks like Mitre ATT&CK and OWASP Top Ten, to proactively identify and mitigate potential security threats. Through penetration testing and red teaming exercises, I validate threat models and enhance organizational security postures.
+https://medium.com/@tahirbalarabe2
 
-Passionate about fostering a culture of security awareness, I develop and deliver comprehensive training programs tailored to various roles within an organization. By conducting workshops, webinars, and e-learning sessions, I empower teams to adopt best practices and stay vigilant against emerging threats.
+ 💻🔐 Shift Left and Shield Right: I am currently building, attacking and defending on AWS GCP and Azure
 
-What sets me apart is my integrated approach to cybersecurity—bridging technical expertise with effective communication to not only secure systems but also educate and empower teams. Currently, I'm working on three exciting projects that further advance security measures—stay tuned for updates!
+🔥  First Degree in Computer Science and Masters in Advanced Computer Science Major in Cybersecurity. 
 
-I'm eager to connect with professionals and organizations committed to building a more secure digital landscape. Feel free to reach out to discuss how we can collaborate to enhance cybersecurity initiatives.
+🎯 Broad Experience Across Key Roles: I’ve gained valuable expertise in Security Risk Management, Information Security, Cybersecurity, Cloud Security, Governance and Compliance, Incident Response, Vulnerability Management Threat Modelling,  IT process improvement and Secure Software Development Lifecycle.
+
+💡 What sets me apart is my integrated approach to cybersecurity—bridging technical expertise with effective communication to secure systems and educate and empower teams. Currently, I'm working on three exciting projects that further advance security measures—stay tuned for updates! 
+https://drive.google.com/drive/folders/1bS9KZpehAhPUJaEqE1Dl2pzxVz0O2kmQ?usp=drive_link
+
+🚗 Security Researcher Author and Reviewer: I Author and Co-Author White Papers about Gen-AI in Cybersecurity, I am currently researching AIops and MLops.
+
+🌈 Collaborative & Results-Driven: I'm known for my positive attitude and collaborative approach. I’m dedicated to achieving successful project outcomes and fostering strong team relationships.
+
+🚀 Leadership & Innovation: Agile, Lean and Work Balance. Whether leading new standard implementations or supporting team transitions, I continually seek ways to innovate and enhance team performance.
+
+🔍 Skills: IT Security, Cybersecurity, Application Security, System Administration, Project Management, Risk Assessment, IAM,  Incident Response and Management, Vulnerability Management, Governance, Risk Management, and Compliance (GRC), 
+
+💻 Technical: Linux, PowerShell, Bash, Python, SQL, Visual Basic .NET, JAVA, C++, ASP.NET, XML
+
+🔧 Leveraging a diverse IT, security, and development background as I work towards a leadership role in IT management.
+
+🤩 Certifications in Progress:  Currently working on CISSP. 
+
+👔 Top 1% on TryHackMe
+
+🌐 Let’s Connect! If you’re looking for someone technically skilled and easy to work with, let’s connect!
 
 Follow my journey: medium.com/@tahirbalarabe2
 
-AWS PROJECTS 
-https://drive.google.com/drive/folders/1OnsnWyiUY_nfBflntS4DyvOf0SQ7sDCb?usp=sharing
-
-My skills and work experience:
-
-Conducting risk assessments to identify potential threats and vulnerabilities within the organization.
-https://docs.google.com/spreadsheets/d/1atqjbngTely8ip3gaCgdsbIVGlbt6mWvassN1KfjGFU/edit?usp=sharing
- 
-Monitoring compliance with relevant regulations and industry standards.
-https://docs.google.com/spreadsheets/d/1zbXmRWDM4VcIZ_lYUAwzcYBpRgJ1VA-Y3pXvbUXbFj4/edit?gid=462699244#gid=462699244
-
-I analyze, develop, and implement robust policies to defend against cyber threats and ensure regulatory compliance. 
-https://github.com/balarabetahir/grc-policy
-
-Badges https://www.credly.com/users/groot279/badges
-
-Check out my GitHub Profile I am working on some interesting project 
-GitHub: https://github.com/balarabetahir
+Listen to INFOCHEF on Spotify for Podcasters https://podcasters.spotify.com/pod/show/tahir76
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Cyberchef201.png" alt="TryHackMe">
